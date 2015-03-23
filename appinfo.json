@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nathanlandis@gmail.com",
+    "longName": "Time and Temperature",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/CODE Bold.ttf",
+                "name": "FONT_CODE_BOLD_60",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Time and Temperature",
+    "uuid": "25792308-8230-4c31-afa6-20b5689f3488",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
